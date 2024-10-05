@@ -1,8 +1,8 @@
 ---
 
-# Steven Universe Memory Game (Em Desenvolvimento)
+# Hora de Aventura Memory Game (Em Desenvolvimento)
 
-Bem-vindo ao **Steven Universe Memory Game**, um projeto de jogo da memória inspirado no universo de *Steven Universe*. Este jogo está sendo desenvolvido em Python, utilizando a biblioteca `tkinter` para a interface gráfica. O objetivo é criar um jogo divertido, onde os jogadores podem testar suas habilidades de memória, combinando personagens icônicos do desenho animado!
+Bem-vindo ao **Hora de Aventura Memory Game**, um projeto de jogo da memória inspirado no universo de *Hora de Aventura*. Este jogo está sendo desenvolvido em Python, utilizando a biblioteca `tkinter` para a interface gráfica. O objetivo é criar um jogo divertido, onde os jogadores podem testar suas habilidades de memória, combinando personagens icônicos do desenho animado!
 
 ## 🌐 Languages
 
@@ -13,22 +13,18 @@ Bem-vindo ao **Steven Universe Memory Game**, um projeto de jogo da memória ins
 
 **Este projeto ainda está em desenvolvimento**. Algumas funcionalidades principais ainda não foram implementadas, e novas features estão sendo adicionadas gradualmente. Fique à vontade para explorar o código e contribuir!
 
-## 🎮 Funcionalidades Planejadas
+## 🎮 Funcionalidades
 
 - Interface gráfica amigável, criada com `tkinter`.
-- Cartas temáticas de personagens de *Steven Universe* (Steven, Garnet, Peridot, entre outros).
 - Sistema de jogo básico onde o jogador deve encontrar pares de cartas idênticas.
 - Contagem de tempo para desafiar os jogadores a completarem o jogo no menor tempo possível.
 - Sistema de pontuação com base no número de tentativas.
-- Suporte para múltiplos níveis de dificuldade (futuro).
+- Suporte para múltiplos níveis de dificuldade
+- Musica tematica do desenho 
 
 ## 🚧 Funcionalidades em Desenvolvimento
 
-- [ ] Sistema de embaralhamento das cartas.
-- [ ] Animação ao virar as cartas.
-- [ ] Adicionar efeitos sonoros e músicas de fundo(coloquei uma como teste! (*^_^*).
 - [ ] Melhoria na interface e feedback visual para combinações corretas/erradas.
-- [ ] Implementar níveis de dificuldade: fácil, médio, difícil.
 
 ## 🛠️ Requisitos
 
@@ -42,7 +38,7 @@ Para rodar este projeto em sua máquina, você precisará ter instalado:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/EveeSilvaa/MemoryGame
+   git clone https://github.com/EveeSilvaa/MemoryGame-Adventure-Time
    ```
 
 2. Entre no diretório do projeto:
@@ -91,6 +87,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ### ⭐ Agradecimentos
 
-Obrigado por conferir este projeto! _Steven Universe_ é uma inspiração para muitos de nós, e espero que este jogo traga um pouco da magia desse universo para os jogadores.
+Obrigado por conferir este projeto! _Hora de Aventura_ é uma inspiração para muitos de nós, e espero que este jogo traga um pouco da magia desse universo para os jogadores.
 
 ---
